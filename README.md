@@ -52,4 +52,4 @@ docs.google.com/spreadsheets/d/__XxXxxXxXXxxXXXxX__/edit?usp=sharing
 * .env file - Change YOUR_GROUPME_BOT_ID to your groupme bots ID.
 
 ###Deployment
-I suggest following [this tutorial](https://github.com/groupme/bot-tutorial-nodejs) as that is what I used to deploy this a number of other bots I use.
+I suggest following [this tutorial](https://github.com/groupme/bot-tutorial-nodejs) along with my files to get the bot going.
