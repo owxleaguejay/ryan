@@ -1,0 +1,6 @@
+{
+  "name": "DaddyLeagues Group Me bot",
+  "description": "DaddyLeagues Bot written in Node that posts information from league site to groupme chat",
+  "repository": "https://github.com/ryanewood/dl-groupme-bot",
+  "keywords": []
+}
