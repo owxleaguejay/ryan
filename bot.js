@@ -176,8 +176,8 @@ function getScores() {
 				if(cells[loop].value != false)
 				{
 					stringToSend += cells[loop].value + "\n";
-					loop++;
 				}
+				loop++;
 			  }
 			  postMessage(stringToSend.substring(0,400));
 			});
