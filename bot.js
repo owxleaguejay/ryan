@@ -175,7 +175,7 @@ function getScores() {
 			  {
 				if(cells[loop].value != false)
 				{
-					stringToSend += cells[loop].value + "\n";
+					stringToSend += cells[loop].value.split(" ")[1] + " - " + cells[loop].value.split(" ")[0] + "   @   " + cells[loop].value.split(" ")[3] + " - " + cells[loop].value.split(" ")[2] + "\n";
 				}
 				loop++;
 			  }
