@@ -6,8 +6,8 @@ var googleAuth = require('google-auth-library');
 var GoogleSpreadsheet = require('google-spreadsheet');
 
 
-var LEAGUE_NAME = "YOUR LEAGUE NAME HERE";
-var SPREADSHEET_KEY = "YOUR GOOGLE SPREADSHEET KEY HERE";
+var LEAGUE_NAME = "Lil Ballers";
+var SPREADSHEET_KEY = "https://docs.google.com/spreadsheets/d/1ThVADyBEzKAICoSKgrYNu-PcDJYUAiH-D7N6qK7KNrM/edit?usp=sharing";
 var botID = process.env.BOT_ID;
 
 function respond() {
